@@ -1,2 +1,7 @@
 {% extends 'base.html' %}
 {% load static %}
+{% block title %} Index {% endblock %}
+{% block header %} index {% endblock %}
+{% block body %}
+    {% include "form_test.html" with form=form %}
+{% endblock %}
