@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %} Friend {% endblock %}
+{% block header %} friend Django = 3.1 {% endblock %}
+{% block body %}
+    {% include "form_test.html" with form=form %}
+    <hr />
+    {% include "friend_list.html" %}
+{% endblock %}
+{% block javascript %}
+    {% include "ajax_postform.html" %}
+    {% include "ajax_check_name_exists.html" %}
+{% endblock javascript %}

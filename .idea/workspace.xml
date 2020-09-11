@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d650b8a3-7356-47bc-a616-1f8c09d0a346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ajaxform_django31/templates/friend.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoAjax/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoAjax/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoAjax/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoAjax/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajaxform_django31/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxform_django31/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,28 +28,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="386" />
-          <entry key="py" value="868" />
+          <entry key="html" value="387" />
+          <entry key="py" value="870" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="386" />
-          <entry key="Python" value="868" />
+          <entry key="HTML" value="387" />
+          <entry key="Python" value="870" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="11" />
+          <entry key="html" value="12" />
           <entry key="py" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="11" />
+          <entry key="HTML" value="12" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="21" />
         </counts>
@@ -87,11 +87,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ajaxform_django31/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="15" />
+            <state relative-caret-position="90">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -111,11 +111,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajaxform_django31/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -151,10 +151,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DjangoAjax/settings.py">
+        <entry file="file://$PROJECT_DIR$/ajaxform_django31/templates/friend31.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+            <state relative-caret-position="72">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -164,8 +164,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -196,8 +196,9 @@
         <option value="$PROJECT_DIR$/templates/ajax_postform.html" />
         <option value="$PROJECT_DIR$/ajaxform/views.py" />
         <option value="$PROJECT_DIR$/templates/ajax_check_name_exists.html" />
-        <option value="$PROJECT_DIR$/ajaxform_django31/views.py" />
         <option value="$PROJECT_DIR$/ajaxform_django31/urls.py" />
+        <option value="$PROJECT_DIR$/ajaxform_django31/templates/friend.html" />
+        <option value="$PROJECT_DIR$/ajaxform_django31/views.py" />
       </list>
     </option>
   </component>
@@ -234,12 +235,19 @@
             <path>
               <item name="DjangoAjax" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoAjax" type="462c0819:PsiDirectoryNode" />
+              <item name="ajaxform" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoAjax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DjangoAjax" type="462c0819:PsiDirectoryNode" />
               <item name="ajaxform_django31" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DjangoAjax" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoAjax" type="462c0819:PsiDirectoryNode" />
-              <item name="DjangoAjax" type="462c0819:PsiDirectoryNode" />
+              <item name="ajaxform_django31" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DjangoAjax" type="b2602c69:ProjectViewProjectNode" />
@@ -468,13 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajaxform/templates/friend.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DjangoAjax/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -519,16 +520,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajaxform_django31/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ajaxform/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -542,9 +533,33 @@
     <entry file="file://$PROJECT_DIR$/ajaxform_django31/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxform/templates/friend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxform_django31/templates/friend31.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxform_django31/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>

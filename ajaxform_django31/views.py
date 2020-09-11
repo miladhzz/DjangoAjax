@@ -9,7 +9,7 @@ def friend_view(request):
     form = forms.FriendForm()
     friends = models.Friend.objects.all()
 
-    return render(request, 'friend.html', {'form': form, 'friends': friends,
+    return render(request, 'friend31.html', {'form': form, 'friends': friends,
                                            'post_address': reverse('post_friend_django31'),
                                            'validate_nickname_address': reverse('validate_nickname_django31')})
 
