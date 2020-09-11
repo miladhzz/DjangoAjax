@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'ajaxform.apps.AjaxformConfig'
+    'ajaxform.apps.AjaxformConfig',
+    'ajaxform_django31.apps.AjaxformDjango31Config',
 ]
 
 MIDDLEWARE = [
