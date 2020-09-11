@@ -1,5 +1,5 @@
 from django.http import HttpResponse
-from django.shortcuts import render
+from django.shortcuts import render, reverse
 from . import forms
 from . import models
 from django.http import JsonResponse
@@ -18,7 +18,10 @@ def index(request):
 def friend_view(request):
     form = forms.FriendForm()
     friends = models.Friend.objects.all()
-    return render(request, 'friend.html', {'form': form, 'friends': friends})
+
+    return render(request, 'friend.html', {'form': form, 'friends': friends,
+                                           'post_address': reverse('post_friend'),
+                                           'validate_nickname_address': reverse('validate_nickname')})
 
 
 def post_friend(request):

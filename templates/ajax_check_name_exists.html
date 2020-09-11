@@ -6,7 +6,7 @@
         // GET AJAX request
         $.ajax({
             type: 'GET',
-            url: "{% url 'validate_nickname' %}",
+            url: "{{ validate_nickname_address }}",
             data: {"nick_name": nick_name},
             success: function (response) {
                 // if not valid user, alert the user
