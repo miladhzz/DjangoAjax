@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d650b8a3-7356-47bc-a616-1f8c09d0a346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ajaxform/templates/friend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajaxform/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxform/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajaxform/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxform/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajaxform/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxform/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajaxform/templates/form_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxform/templates/form_test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajaxform/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxform/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajaxform/templates/friend.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxform/templates/friend.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ajaxform/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ajaxform/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +27,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="299" />
-          <entry key="py" value="718" />
+          <entry key="html" value="315" />
+          <entry key="py" value="741" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="299" />
-          <entry key="Python" value="718" />
+          <entry key="HTML" value="315" />
+          <entry key="Python" value="741" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -80,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/ajaxform/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -97,11 +90,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajaxform/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+            <state relative-caret-position="191">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
-                <marker date="1599810544685" expanded="true" signature="391:396" ph="..." />
+                <marker date="1599822549548" expanded="true" signature="391:396" ph="..." />
               </folding>
             </state>
           </provider>
@@ -110,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ajaxform/templates/friend.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-954">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="54">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -120,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/ajaxform/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -129,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/ajaxform/forms.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="339">
-              <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
                 <marker date="1599803954964" expanded="true" signature="91:96" ph="..." />
@@ -142,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/ajaxform/templates/form_test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -191,8 +184,8 @@
         <option value="$PROJECT_DIR$/ajaxform/admin.py" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/ajaxform/urls.py" />
-        <option value="$PROJECT_DIR$/ajaxform/templates/friend.html" />
         <option value="$PROJECT_DIR$/ajaxform/views.py" />
+        <option value="$PROJECT_DIR$/ajaxform/templates/friend.html" />
       </list>
     </option>
   </component>
@@ -203,8 +196,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="165" />
-    <option name="y" value="-14" />
+    <option name="x" value="-1534" />
+    <option name="y" value="-20" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -225,12 +218,6 @@
               <item name="DjangoAjax" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoAjax" type="462c0819:PsiDirectoryNode" />
               <item name="ajaxform" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoAjax" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoAjax" type="462c0819:PsiDirectoryNode" />
-              <item name="ajaxform" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DjangoAjax" type="b2602c69:ProjectViewProjectNode" />
@@ -325,15 +312,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
+    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26070336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923196" visible="true" weight="0.3081862" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923196" visible="true" weight="0.32933104" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,7 +329,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50076807" side_tool="true" weight="0.3081862" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32744783" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32590052" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -419,7 +406,7 @@
     <entry file="file://$PROJECT_DIR$/ajaxform/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -430,17 +417,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajaxform/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ajaxform/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
-          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
             <marker date="1599803954964" expanded="true" signature="91:96" ph="..." />
@@ -451,7 +431,7 @@
     <entry file="file://$PROJECT_DIR$/ajaxform/templates/form_test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -496,21 +476,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxform/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ajaxform/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        <state relative-caret-position="191">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
-            <marker date="1599810544685" expanded="true" signature="391:396" ph="..." />
+            <marker date="1599822549548" expanded="true" signature="391:396" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ajaxform/templates/friend.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-954">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="54">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
         </state>
       </provider>
     </entry>
